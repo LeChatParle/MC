@@ -11,7 +11,7 @@ Console.WriteLine("[E]xit");
 
 var userInput = Console.ReadLine();
 
-switch (userInput.ToLower())
+/* switch (userInput.ToLower())
 {
     case "s":
         System.Console.WriteLine("Here are your to-dos:");
@@ -27,6 +27,6 @@ switch (userInput.ToLower())
         break;
     default:
     break;
-}
+} */
 
 Console.WriteLine(userInput);
