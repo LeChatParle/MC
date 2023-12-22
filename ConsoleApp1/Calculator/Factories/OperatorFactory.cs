@@ -2,7 +2,7 @@ using TerminalCalculator.Factories;
 using TerminalCalculator.Strategies;
 
 namespace TerminalCalculator {
-    public class DetermineHowToCalculate : IOperatorFactory {
+    public class OperatorFactory : IOperatorFactory {
         public IOperatorStrategy DetermineCalculationType(string operationType) {
             switch (operationType) {
                 case "addition":
