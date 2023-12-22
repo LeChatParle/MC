@@ -23,7 +23,7 @@ namespace TerminalCalculator {
             System.Console.WriteLine($"Enter operation type: Addition, Subtraction, Multiplication, or Division.");
             operationType = Validator.ValidateOperationType(secondNumber);
 
-            DetermineHowToCalculate MakeDetermination = new DetermineHowToCalculate();
+            OperatorFactory MakeDetermination = new OperatorFactory();
             IOperatorStrategy Calculate = MakeDetermination.DetermineCalculationType(operationType);
             
             //remove redundancy
