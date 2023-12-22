@@ -1,5 +1,5 @@
 namespace TerminalCalculator {
-    interface IOperatorFactory {
+    public interface IOperatorFactory {
         IOperatorStrategy DetermineCalculationType(string operationType);
     }
 }

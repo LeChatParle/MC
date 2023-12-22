@@ -1,15 +1,15 @@
-/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/Calculator/bin/Debug/net8.0/Calculator
-/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/Calculator/bin/Debug/net8.0/Calculator.deps.json
-/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/Calculator/bin/Debug/net8.0/Calculator.runtimeconfig.json
-/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/Calculator/bin/Debug/net8.0/Calculator.dll
-/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/Calculator/bin/Debug/net8.0/Calculator.pdb
-/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/Calculator/obj/Debug/net8.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
-/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfoInputs.cache
-/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfo.cs
-/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/Calculator/obj/Debug/net8.0/Calculator.csproj.CoreCompileInputs.cache
-/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/Calculator/obj/Debug/net8.0/Calculator.sourcelink.json
-/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/Calculator/obj/Debug/net8.0/Calculator.dll
-/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/Calculator/obj/Debug/net8.0/refint/Calculator.dll
-/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/Calculator/obj/Debug/net8.0/Calculator.pdb
-/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/Calculator/obj/Debug/net8.0/Calculator.genruntimeconfig.cache
-/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/Calculator/obj/Debug/net8.0/ref/Calculator.dll
+C:\Users\jresch\source\repos\MC\ConsoleApp1\Calculator\bin\Debug\net8.0\Calculator.exe
+C:\Users\jresch\source\repos\MC\ConsoleApp1\Calculator\bin\Debug\net8.0\Calculator.deps.json
+C:\Users\jresch\source\repos\MC\ConsoleApp1\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+C:\Users\jresch\source\repos\MC\ConsoleApp1\Calculator\bin\Debug\net8.0\Calculator.dll
+C:\Users\jresch\source\repos\MC\ConsoleApp1\Calculator\bin\Debug\net8.0\Calculator.pdb
+C:\Users\jresch\source\repos\MC\ConsoleApp1\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jresch\source\repos\MC\ConsoleApp1\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\jresch\source\repos\MC\ConsoleApp1\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+C:\Users\jresch\source\repos\MC\ConsoleApp1\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\jresch\source\repos\MC\ConsoleApp1\Calculator\obj\Debug\net8.0\Calculator.sourcelink.json
+C:\Users\jresch\source\repos\MC\ConsoleApp1\Calculator\obj\Debug\net8.0\Calculator.dll
+C:\Users\jresch\source\repos\MC\ConsoleApp1\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+C:\Users\jresch\source\repos\MC\ConsoleApp1\Calculator\obj\Debug\net8.0\Calculator.pdb
+C:\Users\jresch\source\repos\MC\ConsoleApp1\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+C:\Users\jresch\source\repos\MC\ConsoleApp1\Calculator\obj\Debug\net8.0\ref\Calculator.dll

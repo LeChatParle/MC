@@ -8,25 +8,28 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/fankang/.nuget/packages/": {}
+    "C:\\Users\\jresch\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/Calculator/Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\jresch\\source\\repos\\MC\\ConsoleApp1\\Calculator\\Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/Calculator/Calculator.csproj",
-      "packagesPath": "/Users/fankang/.nuget/packages/",
-      "outputPath": "/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/Calculator/obj/",
+      "projectPath": "C:\\Users\\jresch\\source\\repos\\MC\\ConsoleApp1\\Calculator\\Calculator.csproj",
+      "packagesPath": "C:\\Users\\jresch\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jresch\\source\\repos\\MC\\ConsoleApp1\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/fankang/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\jresch\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.pkg.github.com/SunriseBanks/index.json": {}
       },
       "frameworks": {
         "net8.0": {
@@ -59,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
