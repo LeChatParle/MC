@@ -1,4 +1,7 @@
-﻿namespace TerminalCalculator {
+﻿using TerminalCalculator.Strategies;
+using TerminalCalculator.Factories;
+
+namespace TerminalCalculator {
     class Calculator {
         static void Main(string[] args) {
             float firstNumber = 0;
@@ -22,7 +25,8 @@
 
             DetermineHowToCalculate MakeDetermination = new DetermineHowToCalculate();
             IOperatorStrategy Calculate = MakeDetermination.DetermineCalculationType(operationType);
-
+            
+            //remove redundancy
             operationSymbol = Information.GetOperationSymbol(operationType);
      
             calculatedValue = Calculate.Calculate(firstNumber, secondNumber);

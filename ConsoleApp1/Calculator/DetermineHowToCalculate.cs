@@ -1,3 +1,6 @@
+using TerminalCalculator.Factories;
+using TerminalCalculator.Strategies;
+
 namespace TerminalCalculator {
     public class DetermineHowToCalculate : IOperatorFactory {
         public IOperatorStrategy DetermineCalculationType(string operationType) {
