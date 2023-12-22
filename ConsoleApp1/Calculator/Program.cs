@@ -1,14 +1,11 @@
 ﻿namespace TerminalCalculator {
-    class Calculator
-    {
-        static float firstNumber = 0;
-        static float secondNumber = 0;
-        static string operationType = "";
-        static string operationSymbol = "";
-        static float calculatedValue = 0;
-
-        static void Main(string[] args)
-        {
+    class Calculator {
+        static void Main(string[] args) {
+            float firstNumber = 0;
+            float secondNumber = 0;
+            string operationType = "";
+            string operationSymbol = "";
+            float calculatedValue = 0;
 
             System.Console.WriteLine("Welcome to Calculon 9000");
             

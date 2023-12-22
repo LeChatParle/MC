@@ -1,10 +1,10 @@
 namespace TerminalCalculator {
     public class Gathering {
 
-        static float firstNumber = 0;
-        static float secondNumber = 0;
-
        public float GetNumber(bool isFirstNumber) {
+            float firstNumber;
+            float secondNumber ;
+
             while (true) {
                 var value = Console.ReadLine();
 
