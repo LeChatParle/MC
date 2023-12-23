@@ -1,4 +1,4 @@
-namespace TerminalCalculator {
+namespace Calculator {
     public class Gathering {
 
        public float GetNumber(bool isFirstNumber) {

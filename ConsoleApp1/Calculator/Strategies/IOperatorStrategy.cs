@@ -1,4 +1,4 @@
-namespace TerminalCalculator.Strategies {
+namespace Calculator.Strategies {
 
     //Separate classes into separate files
     public interface IOperatorStrategy {
