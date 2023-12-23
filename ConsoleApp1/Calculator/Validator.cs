@@ -1,4 +1,4 @@
-namespace TerminalCalculator {
+namespace Calculator {
     public class Validator {
         public static string ValidateOperationType(float secondNumber) {
 

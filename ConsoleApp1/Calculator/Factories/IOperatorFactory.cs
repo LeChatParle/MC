@@ -1,6 +1,6 @@
-using TerminalCalculator.Strategies;
+using Calculator.Strategies;
 
-namespace TerminalCalculator.Factories {
+namespace Calculator.Factories {
     interface IOperatorFactory {
         IOperatorStrategy DetermineCalculationType(string operationType);
     }

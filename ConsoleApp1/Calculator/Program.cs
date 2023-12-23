@@ -1,7 +1,7 @@
-﻿using TerminalCalculator.Strategies;
-using TerminalCalculator.Factories;
+﻿using Calculator.Strategies;
+using Calculator.Factories;
 
-namespace TerminalCalculator {
+namespace Calculator {
     class Calculator {
         static void Main(string[] args) {
             float firstNumber = 0;
@@ -26,7 +26,7 @@ namespace TerminalCalculator {
             OperatorFactory MakeDetermination = new OperatorFactory();
             IOperatorStrategy Calculate = MakeDetermination.DetermineCalculationType(operationType);
             
-            //remove redundancy
+            //remove redundancy by using symbol in method instead of "addition", etc.
             operationSymbol = Information.GetOperationSymbol(operationType);
      
             calculatedValue = Calculate.Calculate(firstNumber, secondNumber);

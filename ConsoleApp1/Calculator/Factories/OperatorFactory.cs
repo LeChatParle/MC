@@ -1,7 +1,7 @@
-using TerminalCalculator.Factories;
-using TerminalCalculator.Strategies;
+using Calculator.Factories;
+using Calculator.Strategies;
 
-namespace TerminalCalculator {
+namespace Calculator {
     public class OperatorFactory : IOperatorFactory {
         public IOperatorStrategy DetermineCalculationType(string operationType) {
             switch (operationType) {

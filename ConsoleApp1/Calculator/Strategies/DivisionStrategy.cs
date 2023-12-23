@@ -1,4 +1,4 @@
-namespace TerminalCalculator.Strategies {
+namespace Calculator.Strategies {
     public class DivisionStrategy : IOperatorStrategy {
         public float Calculate(float firstNumber, float secondNumber) {
             return firstNumber / secondNumber;
