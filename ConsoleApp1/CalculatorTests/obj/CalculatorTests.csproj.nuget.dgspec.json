@@ -1,25 +1,110 @@
 {
   "format": 1,
   "restore": {
-    "/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/CalculatorTests/CalculatorTests.csproj": {}
+    "C:\\VS Practice Projects\\MC\\ConsoleApp1\\CalculatorTests\\CalculatorTests.csproj": {}
   },
   "projects": {
-    "/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/Calculator/Calculator.csproj": {
+    "C:\\VS Practice Projects\\MC\\ConsoleApp1\\CalculatorTests\\CalculatorTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/Calculator/Calculator.csproj",
-        "projectName": "Calculator",
-        "projectPath": "/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/Calculator/Calculator.csproj",
-        "packagesPath": "/Users/fankang/.nuget/packages/",
-        "outputPath": "/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/Calculator/obj/",
+        "projectUniqueName": "C:\\VS Practice Projects\\MC\\ConsoleApp1\\CalculatorTests\\CalculatorTests.csproj",
+        "projectName": "CalculatorTests",
+        "projectPath": "C:\\VS Practice Projects\\MC\\ConsoleApp1\\CalculatorTests\\CalculatorTests.csproj",
+        "packagesPath": "C:\\Users\\jedwards\\.nuget\\packages\\",
+        "outputPath": "C:\\VS Practice Projects\\MC\\ConsoleApp1\\CalculatorTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/fankang/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\jedwards\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\VS Practice Projects\\MC\\ConsoleApp1\\Calculator\\Calculator.csproj": {
+                "projectPath": "C:\\VS Practice Projects\\MC\\ConsoleApp1\\Calculator\\Calculator.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "Shouldly": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.6.4, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.5.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\VS Practice Projects\\MC\\ConsoleApp1\\Calculator\\Calculator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\VS Practice Projects\\MC\\ConsoleApp1\\Calculator\\Calculator.csproj",
+        "projectName": "Calculator",
+        "projectPath": "C:\\VS Practice Projects\\MC\\ConsoleApp1\\Calculator\\Calculator.csproj",
+        "packagesPath": "C:\\Users\\jedwards\\.nuget\\packages\\",
+        "outputPath": "C:\\VS Practice Projects\\MC\\ConsoleApp1\\Calculator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jedwards\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,92 +138,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/CalculatorTests/CalculatorTests.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/CalculatorTests/CalculatorTests.csproj",
-        "projectName": "CalculatorTests",
-        "projectPath": "/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/CalculatorTests/CalculatorTests.csproj",
-        "packagesPath": "/Users/fankang/.nuget/packages/",
-        "outputPath": "/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/CalculatorTests/obj/",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "/Users/fankang/.nuget/NuGet/NuGet.Config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {
-              "/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/Calculator/Calculator.csproj": {
-                "projectPath": "/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/Calculator/Calculator.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.NET.Test.Sdk": {
-              "target": "Package",
-              "version": "[17.8.0, )"
-            },
-            "Moq": {
-              "target": "Package",
-              "version": "[4.20.70, )"
-            },
-            "Shouldly": {
-              "target": "Package",
-              "version": "[4.2.1, )"
-            },
-            "test": {
-              "target": "Package",
-              "version": "[2.0.1.1, )"
-            },
-            "xunit": {
-              "target": "Package",
-              "version": "[2.6.4, )"
-            },
-            "xunit.runner.visualstudio": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.5.6, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

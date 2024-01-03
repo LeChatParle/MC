@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CalculatorTests
-build_property.ProjectDir = /Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/CalculatorTests/
+build_property.ProjectDir = C:\VS Practice Projects\MC\ConsoleApp1\CalculatorTests\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
