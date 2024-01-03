@@ -4,14 +4,14 @@
     "/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/CalculatorTests/CalculatorTests.csproj": {}
   },
   "projects": {
-    "/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/CalculatorTests/CalculatorTests.csproj": {
+    "/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/Calculator/Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/CalculatorTests/CalculatorTests.csproj",
-        "projectName": "CalculatorTests",
-        "projectPath": "/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/CalculatorTests/CalculatorTests.csproj",
+        "projectUniqueName": "/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/Calculator/Calculator.csproj",
+        "projectName": "Calculator",
+        "projectPath": "/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/Calculator/Calculator.csproj",
         "packagesPath": "/Users/fankang/.nuget/packages/",
-        "outputPath": "/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/CalculatorTests/obj/",
+        "outputPath": "/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/Calculator/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/fankang/.nuget/NuGet/NuGet.Config"
@@ -37,7 +37,68 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/CalculatorTests/CalculatorTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/CalculatorTests/CalculatorTests.csproj",
+        "projectName": "CalculatorTests",
+        "projectPath": "/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/CalculatorTests/CalculatorTests.csproj",
+        "packagesPath": "/Users/fankang/.nuget/packages/",
+        "outputPath": "/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/CalculatorTests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/fankang/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/Calculator/Calculator.csproj": {
+                "projectPath": "/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/Calculator/Calculator.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
             "Moq": {
               "target": "Package",
               "version": "[4.20.70, )"
@@ -45,6 +106,10 @@
             "Shouldly": {
               "target": "Package",
               "version": "[4.2.1, )"
+            },
+            "test": {
+              "target": "Package",
+              "version": "[2.0.1.1, )"
             },
             "xunit": {
               "target": "Package",
