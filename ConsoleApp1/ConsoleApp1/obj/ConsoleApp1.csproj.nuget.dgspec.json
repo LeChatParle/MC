@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj": {}
+    "C:\\VS Practice Projects\\MC\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/Calculator/Calculator.csproj": {
+    "C:\\VS Practice Projects\\MC\\ConsoleApp1\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/Calculator/Calculator.csproj",
+        "projectUniqueName": "C:\\VS Practice Projects\\MC\\ConsoleApp1\\Calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/Calculator/Calculator.csproj",
-        "packagesPath": "/Users/fankang/.nuget/packages/",
-        "outputPath": "/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/Calculator/obj/",
+        "projectPath": "C:\\VS Practice Projects\\MC\\ConsoleApp1\\Calculator\\Calculator.csproj",
+        "packagesPath": "C:\\Users\\jedwards\\.nuget\\packages\\",
+        "outputPath": "C:\\VS Practice Projects\\MC\\ConsoleApp1\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/fankang/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\jedwards\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,34 +55,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj": {
+    "C:\\VS Practice Projects\\MC\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\VS Practice Projects\\MC\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
-        "packagesPath": "/Users/fankang/.nuget/packages/",
-        "outputPath": "/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/ConsoleApp1/obj/",
+        "projectPath": "C:\\VS Practice Projects\\MC\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "packagesPath": "C:\\Users\\jedwards\\.nuget\\packages\\",
+        "outputPath": "C:\\VS Practice Projects\\MC\\ConsoleApp1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/fankang/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\jedwards\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/Calculator/Calculator.csproj": {
-                "projectPath": "/Users/fankang/Documents/8. Other/Computers/Programming/C#/C# MC/ConsoleApp1/Calculator/Calculator.csproj"
+              "C:\\VS Practice Projects\\MC\\ConsoleApp1\\Calculator\\Calculator.csproj": {
+                "projectPath": "C:\\VS Practice Projects\\MC\\ConsoleApp1\\Calculator\\Calculator.csproj"
               }
             }
           }
@@ -110,7 +114,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
